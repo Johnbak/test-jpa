@@ -1,1 +1,2 @@
-"# test-jpa" 
+"# test-jpa"
+"java jpa connect my sql"
